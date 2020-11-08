@@ -8,4 +8,4 @@ in this project the outcome is a classification where we judge if the employee i
 
 ![enter image description here](https://github.com/Ankitabhanushali06/HR-Employee-Attrition/blob/main/hr-analytics-10.jpg?raw=true)
 
-	To check out my notebook, please click [here](https://github.com/Ankitabhanushali06/HR-Employee-Attrition/blob/main/HR_Analytics.ipynb)
+To check out my notebook, please click [here](https://github.com/Ankitabhanushali06/HR-Employee-Attrition/blob/main/HR_Analytics.ipynb)
